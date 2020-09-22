@@ -1,0 +1,9 @@
+{
+    "name": "Kitten's theme",
+    "description": "A transparant theme for powercord",
+    "version": "1.0.0",
+    "author": "Kitten(she/her)#5052",
+    "theme": "custom.css",
+    "consent": "false",
+    "license": "unknown"
+}
